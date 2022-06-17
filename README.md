@@ -1,6 +1,6 @@
-Capstone CONTINUE 팀 : Detection of illegal two-wheeled vehicle boarding at crosswalks  
+# 2022_Capstone_002
 
-# 2022_Capstone_002_2
+Capstone CONTINUE 팀 : Detection of illegal two-wheeled vehicle boarding at crosswalks  
 
 횡단보도 내 이륜차량 탑승 검출 관리자 웹페이지 [Dashboard](https://capstone-continue.web.app/)  
 
